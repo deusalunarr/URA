@@ -8,12 +8,12 @@ void setup()
 void loop()
 {
   digitalWrite(3, HIGH);	//Acende o LED vermelho
-  delay(5000); 				//Mantem o LED aceso por 3000 milissegundos
+  delay(5000); 		        //Mantem o LED aceso por 5000 milissegundos
   digitalWrite(3, LOW);		//Apaga o LED vermelho
   digitalWrite(5, HIGH);	//Acende o LED verde
-  delay(5000); 				//Mantem o LED aceso por 3000 milissegundos
+  delay(5000); 		        //Mantem o LED aceso por 5000 milissegundos
   digitalWrite(5, LOW);		//Apaga o LED verde  
   digitalWrite(2, HIGH);	//Acende o LED amarelo
-  delay(3000); 				//Mantem o LED aceso por 1500 milissegundos
+  delay(3000); 			//Mantem o LED aceso por 3000 milissegundos
   digitalWrite(2, LOW);		//Apaga o LED amarelo
 }
