@@ -10,6 +10,7 @@ Slides e códigos de apoio
 * CFBCursos: https://www.youtube.com/user/canalfessorbruno/featured <br>
 * Easy Arduino Projects (inglês): https://www.youtube.com/channel/UC3ah8ILfGD6x04TdKsTftXQ/featured <br>
 * Arduino Project Genius (inglês): https://www.youtube.com/user/ArduinoProjectGenius/featured <br>
+* WR Kits: https://www.youtube.com/channel/UCazAvTtoRlOrFDWDJDB2DKQ
 
 ## Vídeo-aulas
 * Curso de Arduino (canal Brincando com Ideias): https://www.youtube.com/playlist?list=PL7CjOZ3q8fMc3OmT7gD7N6sLLFfXsXGZi <br>
@@ -19,4 +20,4 @@ Slides e códigos de apoio
 * Curso de Arduino (Neri Neitzke): https://www.youtube.com/playlist?list=PLt75-19Si-hw1CbtrvhHJ4REgXETPEwlf <br>
 * Arduino para Iniciantes (RBTech): https://www.youtube.com/playlist?list=PLInBAd9OZCzwU8BQjwFYDXwt3xHs14Clh <br>
 * Curso de Arduino (CFBCursos): https://www.youtube.com/playlist?list=PLx4x_zx8csUgWBTvA-fluHV970SzDJRBw <br>
-
+* Curso de Arduino (WR Kits): https://www.youtube.com/playlist?list=PLZ8dBTV2_5HSyOXhJ77d-iyt5Z_v_1DPM
