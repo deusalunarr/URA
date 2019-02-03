@@ -2,7 +2,8 @@
 
 ## O que é Arduino?
 O Arduino é um microcontrolador em que é possível ser reprogramado. Com ele, você será capaz de controlar inúmeros dispositivos e componentes de circuitos elétricos, por exemplo, LEDs, motores, chaves, a luz de uma casa, sensores, temperatura, a potência de um determinado equipamento, um robô, e muito mais.
-O objetivo era elaborar um dispositivo que fosse ao mesmo tempo barato, funcional e fácil de programar, sendo dessa forma acessível a estudantes e projetistas amadores. Além disso, foi adotado o conceito de hardware livre, o que significa que qualquer um pode montar, modificar, melhorar e personalizar o Arduino, partindo do mesmo hardware básico. No mundo da computação e da eletrônica isso é chamado de open source. 
+O objetivo era elaborar um dispositivo que fosse ao mesmo tempo barato, funcional e fácil de programar, sendo dessa forma acessível a estudantes e projetistas amadores. Além disso, foi adotado o conceito de hardware livre, o que significa que qualquer um pode montar, modificar, melhorar e personalizar o Arduino, partindo do mesmo hardware básico. No mundo da computação e da eletrônica isso é chamado de open source.
+[Arduino](https://lh5.googleusercontent.com/5nfMjt0aBVPgBYOk-XkTpdE2uAJ-kwoBLHkMRX64r2r2abBqReJ4p5TBdylpUKdvymFPDEbpo7XSDWCiOApV7M59sGSZZG98jJUCRsQv)
 
 ## Como surgiu?
 O Arduino foi criado em 2005 por um grupo de 5 pesquisadores : Massimo Banzi, David Cuartielles, Tom Igoe, Gianluca Martino e David Mellis, mas esta história começa por volta de 2002 no Interaction Design Institute Ivrea (IDII) – uma antiga escola de design italiana. O professor da disciplina de design de interação, Massimo Banzi, estava com um problema. Ele precisava encontrar uma maneira fácil e barata para que os seus alunos, na maioria designers e artistas, pudessem criar dispositivos eletrônicos que reagissem fisicamente conforme fossem estimulados. O que ele e seus colegas criaram revolucionaram o universo maker.
@@ -25,9 +26,9 @@ Uma vez gravado o programa, o microcontrolador pode ser desconectado do computad
 
 ## Circuito
 A placa Arduino UNO possui diversos conectores que servem para interface com o mundo externo. Esses pinos são:
-*14 pinos de entrada e saída digital (pinos 0-13);
-*6 pinos de entradas analógicas (pinos A0 - A5);
-*6 pinos de saídas analógicas (pinos 3, 5, 6, 9, 10 e 11).
+* 14 pinos de entrada e saída digital (pinos 0-13);
+* 6 pinos de entradas analógicas (pinos A0 - A5);
+* 6 pinos de saídas analógicas (pinos 3, 5, 6, 9, 10 e 11).
     
     Desenvolveremos melhor esses conceitos eletrônicos ao longo do curso.
 
