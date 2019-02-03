@@ -1,6 +1,9 @@
 # URA
 Slides e códigos de apoio
 
+##Slides
+* Introdução ao Arduino: https://bit.ly/2S4jmbb
+
 ## Canais no YouTube
 * Arduino (inglês): https://www.youtube.com/user/arduinoteam/featured <br>
 * Brincando com Ideias: https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw <br>
