@@ -14,6 +14,6 @@ void loop()
   delay(5000); 		        //Mantem o LED aceso por 5000 milissegundos
   digitalWrite(5, LOW);		//Apaga o LED verde  
   digitalWrite(4, HIGH);	//Acende o LED amarelo
-  delay(3000); 			//Mantem o LED aceso por 3000 milissegundos
+  delay(3000); 			      //Mantem o LED aceso por 3000 milissegundos
   digitalWrite(4, LOW);		//Apaga o LED amarelo
 }
