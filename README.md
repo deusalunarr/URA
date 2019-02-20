@@ -2,7 +2,8 @@
 Slides e códigos de apoio
 
 ## Slides
-* Introdução ao Arduino: https://bit.ly/2S4jmbb
+* Aula 0 - Introdução ao Arduino: https://bit.ly/2S4jmbb
+* Aula 1 - LEDs e Protoboard: http://bit.ly/2ttI0Di
 
 ## Canais no YouTube
 * Arduino (inglês): https://www.youtube.com/user/arduinoteam/featured <br>
