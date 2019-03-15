@@ -5,6 +5,8 @@ Slides e códigos de apoio
 * Aula 0 - Introdução ao Arduino: https://bit.ly/2S4jmbb
 * Aula 1 - LEDs e Protoboard: http://bit.ly/2ttI0Di
 
+* Simulador de Arduino: https://www.tinkercad.com
+
 ## Canais no YouTube
 * Arduino (inglês): http://bit.ly/2TawxqZ <br>
 * Brincando com Ideias: http://bit.ly/2BTAMxh <br>
