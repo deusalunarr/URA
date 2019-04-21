@@ -2,11 +2,11 @@
 Slides e códigos de apoio
 
 * Simulador de Arduino: https://www.tinkercad.com
-
 ## Slides
 * Aula 0 - Introdução ao Arduino: https://bit.ly/2S4jmbb
 * Aula 1 - LEDs e Protoboard: http://bit.ly/2ttI0Di
 
+* Estrutura condicional: http://bit.ly/2PnNhX3
 ## Canais no YouTube
 * Arduino (inglês): http://bit.ly/2TawxqZ <br>
 * Brincando com Ideias: http://bit.ly/2BTAMxh <br>
