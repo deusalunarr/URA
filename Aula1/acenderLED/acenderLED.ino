@@ -2,7 +2,7 @@ void setup()
 {
   pinMode(3, OUTPUT);      //Configura o LED na porta digital 3 como pino de SAIDA
 }
-
+//xuux
 void loop()
 {
   digitalWrite(3, HIGH);  //Acende o LED
